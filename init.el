@@ -1,4 +1,5 @@
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+(load-theme 'railscasts t nil)
 (menu-bar-mode  -1)                       ;; turn-off the menu
 (tool-bar-mode -1)                       ;; turn-off toolbar 
 ;; find file
