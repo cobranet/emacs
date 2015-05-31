@@ -81,7 +81,7 @@
   :type 'number
   :group 'typing-of-emacs)
 
-(defcustom toe-starting-time-per-word 3
+(defcustom toe-starting-time-per-word 13
   "*Number of seconds to type a word at the beginning of the game."
   :type 'number
   :group 'typing-of-emacs)
@@ -107,7 +107,7 @@
   :type 'number
   :group 'typing-of-emacs)
 
-(defcustom toe-starting-lives 3
+(defcustom toe-starting-lives 12
   "*The number of lives a player has at game start."
   :type 'number
   :group 'typing-of-emacs)
